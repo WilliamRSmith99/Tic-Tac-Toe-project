@@ -3,7 +3,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=/home/kasm-user/Desktop/Tic-Tac-Toe-project/Tic-Tac-Toe.py
+Exec=/home/kasm-user/Desktop/Tic-Tac-Toe-project/Launch_Game.sh
 Name=Tic-Tac-Toe
 Comment=Tic-Tac-Toe
 Icon=/home/kasm-user/Desktop/Tic-Tac-Toe-project/icon.png
